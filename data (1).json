@@ -1,0 +1,93 @@
+{
+    "users": [
+        {
+            "name": "A Bharath Sagar",
+            "email": "anpurbharathsagar77@gmail.com",
+            "age": 21,
+            "sex": "Male",
+            "password": "bharath",
+            "report": "Medical Report:\n\nThe patient appears to have diabetes. It's crucial to manage blood sugar levels effectively to prevent complications, including diabetic retinopathy.\n\nPreventative Measures:\n\n- Monitor blood sugar levels regularly as advised by your doctor,\n- Follow a diabetic-friendly diet rich in fruits, vegetables, and whole grains,\n- Engage in regular physical activity to improve insulin sensitivity\n\nPrecautionary Measures:\n\n- Attend regular check-ups with healthcare providers to monitor diabetes management,\n- Consult with an ophthalmologist to assess eye health and discuss preventive measures",
+            "precautions": [
+                "Attend regular check-ups with healthcare providers to monitor diabetes management",
+                "Consult with an ophthalmologist to assess eye health and discuss preventive measures"
+            ],
+            "Pupil": null
+        },
+        {
+            "name": "A Bharath Sagar",
+            "email": "anpurbharathsagar77@gmail.com",
+            "age": 21,
+            "sex": "Male",
+            "password": "bharath",
+            "report": null,
+            "precautions": null,
+            "Pupil": null
+        },
+        {
+            "name": "A Bharath Sagar",
+            "email": "anpurbharathsagar77@gmail.com",
+            "age": 21,
+            "sex": "Male",
+            "password": "bharath",
+            "report": null,
+            "precautions": null,
+            "Pupil": null
+        },
+        {
+            "name": "A Bharath Sagar",
+            "email": "anpurbharathsagar77@gmail.com",
+            "age": 21,
+            "sex": "Male",
+            "password": "bharath7",
+            "report": null,
+            "precautions": null,
+            "Pupil": null
+        },
+        {
+            "name": "abs",
+            "email": "abc",
+            "age": 23,
+            "sex": "Male",
+            "password": "12",
+            "report": "Medical Report:\n\nThe patient appears to have diabetes. It's crucial to manage blood sugar levels effectively to prevent complications, including diabetic retinopathy.\n\nPreventative Measures:\n\n- Monitor blood sugar levels regularly as advised by your doctor,\n- Follow a diabetic-friendly diet rich in fruits, vegetables, and whole grains,\n- Engage in regular physical activity to improve insulin sensitivity\n\nPrecautionary Measures:\n\n- Attend regular check-ups with healthcare providers to monitor diabetes management,\n- Consult with an ophthalmologist to assess eye health and discuss preventive measures",
+            "precautions": [
+                "Attend regular check-ups with healthcare providers to monitor diabetes management",
+                "Consult with an ophthalmologist to assess eye health and discuss preventive measures"
+            ],
+            "Pupil": null
+        },
+        {
+            "name": "bharath",
+            "email": "bha",
+            "age": 21,
+            "sex": "Male",
+            "password": "bha",
+            "report": "Medical Report:\n\nThe patient appears to have diabetes. It's crucial to manage blood sugar levels effectively to prevent complications, including diabetic retinopathy.\n\nPreventative Measures:\n\n- Monitor blood sugar levels regularly as advised by your doctor,\n- Follow a diabetic-friendly diet rich in fruits, vegetables, and whole grains,\n- Engage in regular physical activity to improve insulin sensitivity\n\nPrecautionary Measures:\n\n- Attend regular check-ups with healthcare providers to monitor diabetes management,\n- Consult with an ophthalmologist to assess eye health and discuss preventive measures",
+            "precautions": [
+                "Attend regular check-ups with healthcare providers to monitor diabetes management",
+                "Consult with an ophthalmologist to assess eye health and discuss preventive measures"
+            ],
+            "Pupil": null
+        },
+        {
+            "name": "bharath",
+            "email": "bharathsagaranpur26@gmail.com",
+            "age": 22,
+            "sex": "Male",
+            "password": "",
+            "report": null,
+            "precautions": null,
+            "Pupil": null
+        },
+        {
+            "name": "bharath",
+            "email": "bharathsagaranpur26@gmail.com",
+            "age": 22,
+            "sex": "Male",
+            "password": "bharath",
+            "report": null,
+            "precautions": null,
+            "Pupil": null
+        }
+    ]
+}
